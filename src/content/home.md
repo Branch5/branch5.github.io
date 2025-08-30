@@ -2,7 +2,7 @@
 avatarImage:
   src: './avatar.jpg'
   alt: 'My avatar'
-githubCalendar: 'branch5'
+githubCalendar: 'terminalpirate'
 ---
 
 AI said I should call this my **"digital garden"**... whatever that means. 
