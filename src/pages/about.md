@@ -4,7 +4,7 @@ title: About Me
 ---
 
 On the web I go by many names, but socially I'm known by my real name. <br>
-Hi, I'm [Harshit Oberoi](https://www.linkedin.com/in/branch5/)
+Hi, I'm [Harshit Oberoi](https://www.linkedin.com/in/terminalpirate/)
 
 I'm a cybersecurity enthusiast and software engineer who enjoys the challenge of making 
 technology both powerful and safe. My journey started with curiosity — breaking things
