@@ -2,7 +2,10 @@
 avatarImage:
   src: './avatar.jpg'
   alt: 'My avatar'
-githubCalendar: 'stelcodes'
+githubCalendar: 'branch5'
 ---
 
-Welcome to the example site. This site is meant to show off my custom Astro theme/template **MultiTerm** which creates a coder-ready blog complete with an interactive theme changer, RSS, sitemap, tagging, and markdown extensions.
+AI said I should call this my **"digital garden"**... whatever that means. 
+So  welcome to my digital garden of eccentric technology and love for mind boggling, 
+hair-pulling experiments that usually fail and blow up in my face, but sometimes... <br> 
+just sometimes... <br> WORK!!
