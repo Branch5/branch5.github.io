@@ -2,7 +2,7 @@ import type { SiteConfig } from '~/types'
 
 const config: SiteConfig = {
   // Absolute URL to the root of your published site, used for generating links and sitemaps.
-  site: 'https://branch5.github.io/',
+  site: 'https://terminalpirate.github.io/',
   // The name of your site, used in the title and for SEO.
   title: 'Harshit\'s Blog',
   // The description of your site, used for SEO and RSS feed.
@@ -42,7 +42,7 @@ const config: SiteConfig = {
     },
     {
       name: 'GitHub',
-      url: 'https://github.com/branch5',
+      url: 'https://github.com/terminalpirate',
       external: true,
     },
   ],
@@ -151,10 +151,10 @@ const config: SiteConfig = {
   },
   // Social links to display in the footer.
   socialLinks: {
-    github: 'https://github.com/branch5',
+    github: 'https://github.com/terminalpirate',
     // mastodon: 'https://github.com/stelcodes/multiterm-astro',
     email: 'mailto:harshitoberoi77@gmail.com',
-    linkedin: 'https://www.linkedin.com/in/branch5/',
+    linkedin: 'https://www.linkedin.com/in/terminalpirate/',
     // bluesky: 'https://github.com/stelcodes/multiterm-astro',
     // twitter: 'https://github.com/stelcodes/multiterm-astro',
     rss: true, // Set to true to include an RSS feed link in the footer
